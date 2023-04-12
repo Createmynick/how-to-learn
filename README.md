@@ -18,17 +18,17 @@ _How to learn_ это одностраничный сайт, который со
 
 1. **HTML:**
 
-*iframe
-*API YouTube
+- iframe
+- API YouTube
 
 2. **CSS:**
 
-*transition
-*flexbox
-Так же была использована методология _BEM_
+- transition
+- flexbox  
+  Так же была использована методология _BEM_
 
 ---
 
 ### **В будущем планируется улучшение семантики HTML**
 
-\(0_0)/
+(0_0)/
